@@ -17,7 +17,7 @@ public class Start {
 		int resultado=0;
 		
 		//Se pide introducir variable
-		System.out.println("¡Vamos a sumar!");  
+		System.out.println("¡Sumemos!");  
 		System.out.println("Introduce el primer número:");      
 		numero1 = add.nextInt();
 		      
